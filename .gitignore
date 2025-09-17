@@ -1,0 +1,29 @@
+# Ignore build output and binaries
+/Debug/
+*.o
+*.elf
+*.bin
+*.map
+*.exe
+*.out
+*.a
+*.hex
+*.log
+
+# VSCode and IDE settings
+.vscode/
+.settings/
+.cproject
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tests output
+/tests/*.o
+/tests/*.out
+
+# Backup files
+*~
+*.swp
