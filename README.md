@@ -13,7 +13,6 @@ Ce projet implémente un mini-noyau temps réel préemptif pour microcontrôleur
 - Synchronisation via sémaphores et files FIFO
 - Support UART, GPIO, interruptions matérielles
 - Affichage terminal (palette de couleurs, positionnement curseur)
-- Code modulaire et documenté
 
 ## Arborescence
 
